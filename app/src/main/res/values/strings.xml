@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">Shayari App</string>
+
+    <string-array name="myShayari">
+
+             <item>जिस-जिस पर ये जग हँसा है,
+उसी ने इतिहास रचा है।</item>
+            <item>रोज़ रोज़ गिर कर मुकम्मल खड़ा हूँ,
+ज़िन्दगी देख, मैं तुझसे कितना बड़ा हूँ</item>
+            <item>जब टूटने लगे हौंसला तो बस ये याद रखना,
+बिना मेहनत के हासिल तख़्त-ओ-ताज नहीं होते,
+ढूढ़ लेना अंधेरे में ही मंजिल अपनी दोस्तों,
+क्योंकि जुगनू कभी रोशनी के मोहताज़ नहीं होते।</item>
+            <item>यक़ीन हो तो कोई रास्ता निकलता है,
+हवा की ओट भी ले कर चराग़ जलता है।</item>
+            <item>जिनके इरादे नेक होते है..
+उनके दोस्त अनेक होते हैं !!</item>
+            <item>Tere Khayal Se Khud Ko Chhupa Ke Dekha Hai,
+Dil-o-Najar Ko Rula-Rula Ke Dekha Hai,
+Tu Nahi To Kuchh Bhi Nahi Hai Teri Kasam,
+Maine Kuchh Pal Tujhe Bhula Ke Dekha Hai.</item>
+            <item>Hum Aapki Har Cheez Se Pyar Kar Lenge,
+Aapki Har Baat Par Aitbaar Kar Lenge,
+Bas Ek Bar Keh Do Ki Tum Sirf Mere Ho,
+Hum Zindagi Bhar AapKa Intezaar Kar Lenge.</item>
+        <item>परिंदो को मंज़िल मिलेगी यकीन
+
+ये फैले हुए उनके पर बोलते है..
+
+अक्सर वो लोग खामोश रहते है
+
+ज़माने में जिनके हुनर बोलता है</item>
+        <item>खुदी को कर बुलन्द इतना कि तकदीर से पहले
+खुदा बंदे से खुद पूछे बता तेरी रजा क्या है।</item>
+        <item>यदि अंधकार से लड़ने का संकल्प कोई कर लेता है,
+तो एक अकेला जुगनू भी सब अन्धकार हर लेता है।</item>
+        <item>दिल साफ़ करके मुलाक़ात की आदत डालो,
+धूल हटती है तो आईने भी चमक उठते हैं.</item>
+        <item>जो सफर की शुरुआत करते हैं,
+वे मंजिल भी पा लेते हैं
+बस एक बार चलने का हौसला रखना जरुरी है क्योंकि,
+अच्छे इंसानों का तो रास्ते भी इन्तजार करते हैं</item>
+        <item>हजार गम मेरी फितरत नही बदल सकते ;
+क्या करू मुझे आदत हे मुस्कुराने की ।</item>
+
+
+        <item>Har Tanha Raat Mein Ek Naam Yaad Aata Hai,
+Kabhi Subhah To Kabhi Shaam Yaad Aata Hai,
+Jab Sochte Hain Kar Lein Dobara Mohabbat,
+Fir Pehli Mohabbat Ka Anzaam Yaad Aata Hai.</item>
+        <item>Humari Haisiyat Ka Andaza Tum Ye Jaan Ke Laga Lo,
+Hum Kabhi Unke Nahi Hote Jo Har Kisi Ke Ho Gaye.</item>
+        <item>Nazre Karam Mujh Par Itna Na Kar,
+Ki Teri Mohabbat Ke Liye Baagi Ho Jaaun,
+Mujhe Itna Na Pila Ishq-E-Jaam Ki,
+Main Ishq Ke Jahar Ka Aadi Ho Jaaun.</item>
+        <item>Jaruri Toh Nahi Jeene Ke Liye Sahara Ho,
+Jaruri Toh Nahi Hum Jinke Hain Woh Humara Ho,
+Kuchh Kashtiya Doob Bhi Jaya Karti Hai,
+Jaruri Toh Nahi Har Kashti Ka Kinara Ho.</item>
+        <item>Khamoshi Se Bikharna Aa Gaya Hai,
+Humein Ab Khud Ujadna Aa Gaya Hai,
+Kisi Ko Bewafa Kehte Nahi Hum,
+Humein Bhi Ab Badlna Aa Gaya Hai,
+Kisi Ki Yaad Mein Rote Nahi Hum,
+Humein Chup Chap Jalna Aa Gaya Hai,
+Gulaabon Ko Tum Apne Pass Hi Rakho,
+Humein Kaanton Pe Chalna Aa Gaya Hai.</item>
+        <item>Waqt Noor Ko Benoor Kar Deta Hai,
+Chhote se Zakhm Ko Nasoor Kar Deta Hai,
+Kaun Chahta Hai Apno Se Dur Rehna,
+Par Waqt Sabko Majboor Kar Deta Hai.</item>
+        <item>नज़र और नसीब का भी क्या इत्तेफाक है यारों,
+नज़र उसे ही पसंद करती है जो नसीब में नहीं होता !!</item>
+        <item>Sochta Raha Ye Raatbhar Karavat Badal Badal Kar,
+Jane Wo Kyu Badal Gaya, Mujhko Itna Badalkar.</item>
+        <item>सोचा था तड़पायेंगे हम उन्हें,
+किसी और का नाम लेके जलायेगें उन्हें,
+फिर सोचा मैंने उन्हें तड़पाके दर्द मुझको ही होगा,
+तो फिर भला किस तरह सताए हम उन्हें।</item>
+        <item>दिन हुआ है, तो रात भी होगी,
+मत हो उदास, उससे कभी बात भी होगी।
+वो प्यार है ही इतना प्यारा,
+ज़िंदगी रही तो मुलाकात भी होगी।</item>
+        <item>वो बिछड़ के हमसे ये दूरियां कर गई,
+न जाने क्यों ये मोहब्बत अधूरी कर गई,
+अब हमे तन्हाइयां चुभती है तो क्या हुआ,
+कम से कम उसकी सारी तमन्नाएं तो पूरी हो गई।</item>
+        <item>अब तो वफ़ा करने से मुकर जाता है दिल, अब तो इश्क के नाम से डर जाता है दिल,
+            अब किसी दिलासे की जरूरत नही है, क्योंकि अब हर दिलासे से भर गया है दिल।</item>
+
+        <item>अब तेरे बिना जिंदगी गुजारना मुमकिन नही है,
+अब और किसी को इस दिल में बसाना आसान नही है,
+हम तो तेरे पास कब के चले आये होते सब कुछ छोड़ कर,
+लेकिन तूने कभी हमे दिल से पुकारा ही नही है।</item>
+    </string-array>
+</resources>
